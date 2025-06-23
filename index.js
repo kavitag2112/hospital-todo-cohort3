@@ -93,4 +93,11 @@ function isThereAtleastUnhealthyKidney(){
     }
     return atleastOneUnhealthyKidney;
 }
+<<<<<<< HEAD
+console.log("server has started on port 3000");
 app.listen(3000);
+
+=======
+console.log("making chnages");
+app.listen(3000);
+>>>>>>> main
